@@ -13,12 +13,12 @@ This project analyzes social media influencer data to understand engagement patt
 
 ## 📂 Dataset
 
-The dataset contains:
+The dataset includes:
 
 * Influencer name
 * Followers
 * Engagement rate
-* Likes, comments, etc.
+* Likes, comments, and other metrics
 
 ## 🛠️ Tools Used
 
@@ -30,15 +30,20 @@ The dataset contains:
 ## 📈 Key Insights
 
 * Influencers with moderate followers often have higher engagement
-* Engagement rate is not directly proportional to followers
+* Engagement rate is not directly proportional to follower count
 * Some niches perform better than others
+
+## 🔗 Project Links
+
+* 📘 Google Colab Notebook: https://colab.research.google.com/drive/1pyrxXI1Enx0SH2Lxk-mGOIbq9oC2YlKY
+* 💼 LinkedIn: https://www.linkedin.com/in/santosh-anupoju-2638012b9/
 
 ## ▶️ How to Run
 
-1. Open the notebook in Google Colab
-2. Run all cells
-3. Check visualizations and insights
+1. Open the notebook using the Colab link above
+2. Run all cells step by step
+3. Explore visualizations and insights
 
 ## 📎 Author
 
-Santosh Anupoju
+**Santosh Anupoju**
